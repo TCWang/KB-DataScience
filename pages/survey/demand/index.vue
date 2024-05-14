@@ -38,9 +38,7 @@
           </li>
         </ul>
       </div>
-      <div class="w-full md:w-1/2 p-2 shadow-md">
-        <h2>Sought-After Technical Skills for Data Scientists</h2>
-      </div>
+      <div class="w-full md:w-1/2 p-2 shadow-md"></div>
     </div>
     <div class="w-full flex flex-row flex-wrap">
       <NuxtImg
