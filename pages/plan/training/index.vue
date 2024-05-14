@@ -6,11 +6,13 @@
         <h3>Reference Books</h3>
         <ul>
           <li>
+            **
             <a href="/files/DSML-010-data-science-for-dummies.pdf"
               >DSML-010-data-science-for-dummies.pdf</a
             >
           </li>
           <li>
+            **
             <a href="/files/DSML-009-data-science-from-scratch.pdf"
               >DSML-009-data-science-from-scratch.pdf</a
             >
@@ -37,6 +39,53 @@
             <a href="/files/DSML-007-Principles of Data Science.pdf"
               >DSML-007-Principles of Data Science.pdf</a
             >
+          </li>
+        </ul>
+
+        <h3>Video Training - Udemy</h3>
+        <ul>
+          <li>
+            <a
+              href="https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/?couponCode=LEADERSALE24A"
+              >The Data Science Course: Complete Data Science Bootcamp 2024</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?couponCode=LEADERSALE24A"
+              >Python for Data Science and Machine Learning Bootcamp</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/?couponCode=LEADERSALE24A"
+              >Complete A.I. &amp; Machine Learning, Data Science Bootcamp</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/?couponCode=LEADERSALE24A"
+              >Data Analysis | SQL,Tableau,Power BI &amp; Excel | Real
+              Projects</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/data-analysis-masterclass/?couponCode=LEADERSALE24A"
+              >Data Analysis Masterclass (4 courses in 1)</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/tableau-for-beginners/learn/lecture/38427044?start=0#overview"
+              >2024 Tableau Certified Data Analyst Training</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/70-778-analyzing-and-visualizing-data-with-power-bi/learn/lecture/13971936?start=0#overview"
+              >PL-300 certification: Microsoft Power BI Data Analyst
+            </a>
           </li>
         </ul>
 
@@ -157,17 +206,25 @@
               </li>
             </ul>
           </li>
-          <li>
-            Aovid
-            <ul>
-              <li></li>
-            </ul>
-          </li>
         </ul>
       </div>
       <div class="w-full md:w-1/2 p-2 shadow-md">
         <h2>Training Course</h2>
         <ul>
+          <li>
+            McGill
+            <a
+              href="https://www.mcgill.ca/caps/files/caps/career_datascience.pdf"
+              >Career Resources - Data Science
+            </a>
+          </li>
+          <li>
+            Ie Wagon
+            <a
+              href="https://www.lewagon.com/montreal/data-science-course?_gl=1*19ys593*_ga*ODU5NDkxNTI3LjE3MTU0Nzk5MjU.*_ga_FQW4ZHWZ5Z*MTcxNTQ3OTkyNS4xLjEuMTcxNTQ3OTkyNS42MC4wLjA"
+              >Data Science &amp; AI Course in Montreal</a
+            >
+          </li>
           <li>
             coursera
             <a

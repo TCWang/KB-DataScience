@@ -5,9 +5,51 @@
       <div class="w-full md:w-1/2 p-2 shadow-md">
         <h3>Job Titles for Data Science Field</h3>
         <ul>
-          <li>Data Scientist / Data Science Engineer</li>
           <li>
-            Data Analyst / Business Analyst / Business Intelligence Analyst
+            <span class="font-bold">Data Scientist: </span> Data scientists
+            create data-driven business solutions and analytics by driving
+            optimization and improvement of product development. They use
+            predictive modeling to increase and optimize customer experiences,
+            revenue generation, ad targeting, and more. Data scientists also
+            coordinate with different functional teams to implement models and
+            monitor outcomes.
+          </li>
+          <li>
+            <span class="font-bold">Data Engineer:</span> Data engineers
+            assemble large, complex data sets. They identify, design, and
+            implement internal process improvements and then build the
+            infrastructure required for optimal data extraction, transformation,
+            and loading. They also build analytics tools that utilize the data
+            pipeline.
+          </li>
+          <li>
+            <span class="font-bold">Data Architect:</span> Data architects
+            analyze the structural requirements for new software and
+            applications and develop database solutions. They install and
+            configure information systems and migrate data from legacy systems
+            to new ones.
+          </li>
+          <li>
+            <span class="font-bold">Data Analyst:</span> Data analysts acquires
+            data from primary or secondary sources and maintain databases. They
+            interpret that data, analyze results using statistical techniques,
+            and develop data collections systems and other solutions that help
+            management prioritize business and information needs.
+          </li>
+          <li>
+            <span class="font-bold">Business Analyst:</span> Business analysts
+            assist a company with planning and monitoring by eliciting and
+            organizing requirements. They validate resource requirements and
+            develop cost-estimate models by creating informative, actionable and
+            repeatable reporting.
+          </li>
+          <li>
+            <span class="font-bold">Data Administrator:</span> Data
+            administrators assist in database design and update existing
+            databases. They are responsible for setting up and testing new
+            database and data handling systems, sustaining the security and
+            integrity of databases and creating complex query definitions that
+            allow data to be extracted.
           </li>
         </ul>
         <h2>Data Scientist</h2>
