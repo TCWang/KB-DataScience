@@ -148,6 +148,52 @@
         </ul>
       </div>
     </div>
+    <div class="flex flex-row flex-wrap">
+      <div class="w-full md:w-1/2 p-2 shadow-md">
+        <h1>Data Analyst vs. Data Scientist: A Comparation</h1>
+        <h3>Reference</h3>
+        <ul>
+          <li>
+            Learn Data and AI Skills:
+            <a
+              href="https://www.datacamp.com/blog/data-analyst-vs-data-scientist-a-comparative-guide?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720824&utm_adgroupid=152984013534&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=698229374860&utm_targetid=dsa-2222697811358&utm_loc_interest_ms=&utm_loc_physical_ms=9040289&utm_content=DSA~blog~Data-Science&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p2_4-prc_5-na_6-na_7-le_8-pdsh-go_9-na_10-na_11-na-may24&gad_source=1&gclid=CjwKCAjw9IayBhBJEiwAVuc3fvb6rMIm9Wm48GM_xXvGn-F8oX1veIFg1g00eFUhphZtRQfMzVfScBoCOpoQAvD_BwE"
+              >Data Analyst vs. Data Scientist: A Comparative Guide For 2024</a
+            >
+          </li>
+          <li>
+            simplilearn
+            <a
+              href="https://www.simplilearn.com/tutorials/data-analytics-tutorial/data-analyst-vs-data-scientist"
+              >Data Analyst vs. Data Scientist</a
+            >: The Ultimate Comparison
+          </li>
+          <li>
+            Youtube
+            <a href="https://www.youtube.com/watch?v=bxIF9X9k2IE"
+              >Data Analyst vs Data Scientist
+            </a>
+            - Responsibilities, Salaries, Skills, Education
+          </li>
+          <li>
+            Youtube
+            <a href="https://www.youtube.com/watch?v=T08eJt9DlgU"
+              >Data Scientist vs Data Analyst
+            </a>
+            - Which Is Right For You? (2024)
+          </li>
+          <li>
+            Youtube
+            <a href="https://www.youtube.com/watch?v=ORYBRStrnTw"
+              >What Is the Difference Between a Data Analyst and a Data
+              Scientist?</a
+            >
+          </li>
+        </ul>
+      </div>
+      <div class="w-full md:w-1/2 p-2 shadow-md">
+        <h3>Major Difference</h3>
+      </div>
+    </div>
   </div>
 </template>
 
