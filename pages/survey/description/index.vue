@@ -192,6 +192,79 @@
       </div>
       <div class="w-full md:w-1/2 p-2 shadow-md">
         <h3>Major Difference</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Aspect</th>
+              <th>Data Scientist</th>
+              <th>Data Analyst</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr class="odd:bg-white even:bg-gray-100">
+              <td>Role</td>
+              <td>
+                Focus on predictive modeling, machine learning, and advanced
+                statistical analysis to create insights and predictive models
+                from large datasets.
+              </td>
+              <td>
+                Primarily analyze historical data to find trends, develop
+                charts, and create reports to help businesses make more informed
+                decisions.
+              </td>
+            </tr>
+            <tr class="odd:bg-white even:bg-gray-100">
+              <td>Skills</td>
+              <td>
+                Advanced statistical analysis Machine learning Deep learning
+                (for some positions) Programming (Python/R) Big data
+                technologies Data visualization
+              </td>
+              <td>
+                Statistical analysis Data visualization (Tableau, PowerBI) SQL
+                Programming (Python/R) Microsoft Excel
+              </td>
+            </tr>
+            <tr class="odd:bg-white even:bg-gray-100">
+              <td>Tools</td>
+              <td>
+                Python, R TensorFlow, PyTorch Spark, Hadoop SQL databases Data
+                visualization tools
+              </td>
+              <td>
+                SQL databases Excel Tableau, PowerBI Basic Python scripts Google
+                Analytics
+              </td>
+            </tr>
+            <tr class="odd:bg-white even:bg-gray-100">
+              <td>Educational Background</td>
+              <td>
+                Typically require a Master’s or PhD in Statistics, Computer
+                Science, Mathematics, or related fields. Advanced degrees are
+                common.
+              </td>
+              <td>
+                Bachelor’s in IT, computer science, or statistics. Masters is
+                beneficial but not as commonly required as for Data Scientists.
+              </td>
+            </tr>
+            <tr class="odd:bg-white even:bg-gray-100">
+              <td>Salary Expectation</td>
+              <td>
+                Salaries are higher due to the demand for their advanced
+                analytical skills and the complexity of their work. Salaries
+                vary by region and experience.
+              </td>
+              <td>
+                Generally lower than Data Scientists but can vary based on
+                experience, industry, and region. Starting salaries are good
+                with growth potential.
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </div>

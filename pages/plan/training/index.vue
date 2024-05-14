@@ -6,9 +6,13 @@
         <h3>Reference Books</h3>
         <ul>
           <li>
-            <a
-              href="https://www.amazon.com/-/zh_TW/Lillian-Pierson/dp/1119811554/ref=sr_1_7?crid=3LJ5HTKCMC3L9&dib=eyJ2IjoiMSJ9.PziwHT_CjbyPzE1bnR2s6xVc-TvJppVNn2ezrW6T7156WsCH2shKoI50hjv5di3EAegwIBIo6znZk_cZT9Q9NEfPlm5TPrbMEnIBOwXw2xMDbtUHd6d5N94m-oP3CK09sr7ItU1rZIxQ1kaKiAwIkk2W30p2KmlSi8VabApQfkZUo1MtB5KLgfx5kcPm99ojHiGLX_OOqST0OUZts3ONleBn-H_xmRtQI92btfpO8NK-LjR1xL9TOd5hCUbUgeIScFxNccXo8AE8F2EADbkUNplKUa3ovu5deUKXQKWhdsA.wS0045zwnMzgD6lEuOcNT1GNorrDq5JqXCEn-vHBmi4&dib_tag=se&keywords=data+science&qid=1715674141&sprefix=data+science%2Caps%2C249&sr=8-7"
-              >Data Science For Dummies</a
+            <a href="/files/DSML-010-data-science-for-dummies.pdf"
+              >DSML-010-data-science-for-dummies.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-009-data-science-from-scratch.pdf"
+              >DSML-009-data-science-from-scratch.pdf</a
             >
           </li>
           <li>
@@ -187,6 +191,13 @@
               >Become a Data Scientist</a
             >
             12 courses
+          </li>
+          <li>
+            陽明交大
+            <a
+              href="https://drive.google.com/file/d/1CGHCVTWJ_rJBz44qXP4pfVVzbfdW_Klb/view?fbclid=IwZXh0bgNhZW0CMTAAAR2Hhmy6X2QYhmb3j75DZ0aMDVFBcoxzLk5ziwprQ5IL7kKgwUIhMg4_j4s_aem_AZ5v3j6MnVgDixOKO9kDmnP_RAZrSOBVkRYaMU_pUVsfX2Uan-cY85-qi1ptuEomctcDoZanT8YpSx2_m3cBGSZ0"
+              >人工智慧與數據分析職場菁英養成班</a
+            >, 2 months
           </li>
         </ul>
         <h3>Study Guide</h3>
