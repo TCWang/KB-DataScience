@@ -3,7 +3,7 @@
     <div class="container mx-auto px-4 md:flex items-center gap-6">
       <!-- Logo -->
       <div class="flex items-center justify-between md:w-auto w-full">
-        <a href="#" class="flex items-center py-2 px-1 text-white flex-1">
+        <a href="/" class="flex items-center py-2 px-1 text-white flex-1">
           <span class="font-bold">Data Science</span>
         </a>
         <!-- Mobile Menu Button -->
