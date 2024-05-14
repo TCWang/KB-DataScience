@@ -1,1 +1,0 @@
-import{_ as e,c,o as t,a as n}from"./C1l3_csG.js";const o={},a=n("h2",null,"Certification - Data Science",-1),s=[a];function r(_,i){return t(),c("div",null,s)}const l=e(o,[["render",r]]);export{l as default};

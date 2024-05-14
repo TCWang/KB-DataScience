@@ -1,1 +1,0 @@
-import{_ as e,c,o as n,a as o}from"./C1l3_csG.js";const t={},s=o("h2",null,"Position Demand - Data Science",-1),a=[s];function _(r,i){return n(),c("div",null,a)}const l=e(t,[["render",_]]);export{l as default};
