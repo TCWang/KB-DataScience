@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-50;
+}
+
+@layer base {
+  html {
+    font-family: STKaiti, DFKai-SB, Arial, -apple-system, BlinkMacSystemFont,
+      "Segoe UI", "Roboto", "Ubuntu", "Droid Sans", "Microsoft JhengHei",
+      "Helvetica Neue", sans-serif;
+    word-spacing: 1px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+  }
+  .container {
+    @apply md:mx-auto;
+  }
+  a {
+    @apply text-blue-600 hover:text-yellow-600;
+  }
+  ul {
+    @apply list-disc list-inside ml-4;
+  }
+  ol {
+    @apply list-decimal list-inside ml-4;
+  }
+
+  img {
+    @apply py-2;
+  }
+  h1,
+  h2 {
+    @apply bg-indigo-100 font-bold;
+  }
+  h3 {
+    @apply font-bold;
+  }
+  p {
+    @apply mb-2;
+  }
+}
+
+@media (max-width: 543px) {
+  h1,
+  h2 {
+    font-size: 1rem;
+  }
+  h3,
+  h4,
+  .navbar-brand,
+  .dropdown-item {
+    font-size: 0.9rem;
+  }
+  h5,
+  h6,
+  body,
+  .btn {
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 544px) {
+  h1,
+  h2 {
+    font-size: 1rem;
+  }
+  h3,
+  h4,
+  .navbar-brand,
+  .dropdown-item {
+    font-size: 0.9rem;
+  }
+  h5,
+  h6,
+  body,
+  .btn {
+    font-size: 0.8rem;
+  }
+}
+@media (min-width: 768px) {
+  h1,
+  h2 {
+    font-size: 1.2rem;
+  }
+  h3,
+  h4,
+  .navbar-brand,
+  .dropdown-item {
+    font-size: 1rem;
+  }
+  h5,
+  h6,
+  body,
+  .btn {
+    font-size: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  h1,
+  h2 {
+    font-size: 1.2rem;
+  }
+  h3,
+  h4,
+  .navbar-brand,
+  .dropdown-item {
+    font-size: 1.1rem;
+  }
+  h5,
+  h6,
+  body,
+  .btn {
+    font-size: 1rem;
+  }
+}
+@media (min-width: 1200px) {
+  h1,
+  h2 {
+    font-size: 1.2rem;
+  }
+  h3,
+  h4,
+  .navbar-brand,
+  .dropdown-item {
+    font-size: 1.1rem;
+  }
+  h5,
+  h6,
+  body,
+  .btn {
+    font-size: 1rem;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply bg-[#12b488] text-white px-3 py-2 rounded-md text-sm;
+  }
+  .card {
+    @apply p-3 rounded-md bg-white shadow-md h-full;
+  }
+  .navbar-brand {
+    @apply border-b-2 border-b-indigo-400 lg:border-0;
+  }
+}
