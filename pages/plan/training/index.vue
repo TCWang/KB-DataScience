@@ -40,6 +40,23 @@
               >DSML-007-Principles of Data Science.pdf</a
             >
           </li>
+          <li>
+            <a
+              href="/files/PTH-001-Python for Data Analysis_ Data Wrangling with pandas, NumPy, and Jupyter2022.pdf"
+              >PTH-001-Python for Data Analysis_ Data Wrangling with pandas,
+              NumPy, and Jupyter2022.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DATA-001-data-analysis-with-microsoft-power-bi.pdf"
+              >DATA-001-data-analysis-with-microsoft-power-bi.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DATA-002-Tableau-Prep-Up-Running.pdf"
+              >DATA-002-Tableau-Prep-Up-Running.pdf</a
+            >
+          </li>
         </ul>
 
         <h3>Video Training - Udemy</h3>
