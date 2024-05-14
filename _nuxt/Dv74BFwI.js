@@ -1,0 +1,1 @@
+import{_ as e,c,o as n,a as t}from"./C1l3_csG.js";const a={},o=t("h2",null,"Training Material - Data Science",-1),s=[o];function r(_,i){return n(),c("div",null,s)}const d=e(a,[["render",r]]);export{d as default};
