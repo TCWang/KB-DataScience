@@ -241,6 +241,29 @@
               href="https://www.lewagon.com/montreal/data-science-course?_gl=1*19ys593*_ga*ODU5NDkxNTI3LjE3MTU0Nzk5MjU.*_ga_FQW4ZHWZ5Z*MTcxNTQ3OTkyNS4xLjEuMTcxNTQ3OTkyNS42MC4wLjA"
               >Data Science &amp; AI Course in Montreal</a
             >
+            <ul>
+              <li>
+                syllabus
+                <a
+                  href="https://drive.google.com/file/d/1S1yb9b4w0o9Tckn23fhd4SzjBpj-_Eq6/edit"
+                  >Data science &amp; AI bootcamp</a
+                >
+              </li>
+              <li>
+                Youtube
+                <a href="https://www.youtube.com/watch?v=3zXmQQqVd3A"
+                  >Embrace the AI revolution: Discover our Data Science &amp; AI
+                  bootcamp</a
+                >
+              </li>
+              <li>
+                Youtube
+                <a href="https://www.youtube.com/watch?v=kdfVuNMhCIE"
+                  >Montreal Coding Bootcamp
+                </a>
+                - Discover our Data Science &amp; AI graduates' final projects
+              </li>
+            </ul>
           </li>
           <li>
             coursera
@@ -274,6 +297,33 @@
             >, 2 months
           </li>
         </ul>
+
+        <h3>Ie Wagon Training Course</h3>
+        <ul>
+          <li>
+            Full Time: from 8 Jul '24 to 6 sept '24,
+            <ul>
+              <li>Monday to Friday : 9am to 6pm (campus or online)</li>
+            </ul>
+          </li>
+          <li>
+            Part Time: from 6 Jul '24 to 13 Dec '24,
+            <ul>
+              <li>
+                Tuesdays &amp; Thursdays, 6:30 pm to 9:30 pm (live online)
+              </li>
+              <li>
+                Saturdays, all day from 10:30 am to 6:00 pm (campus or live)
+              </li>
+              <li>
+                Additionally, there are two 1.5-hour lectures to watch before
+                Tuesday and Saturday sessions.
+              </li>
+              <li>Overall commitment: 16 hours per week.</li>
+            </ul>
+          </li>
+        </ul>
+
         <h3>Study Guide</h3>
         <ul>
           <li>
