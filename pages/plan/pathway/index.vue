@@ -62,7 +62,42 @@
           </li>
         </ol>
       </div>
-      <div class="w-full md:w-1/2 p-2 shadow-md"></div>
+      <div class="w-full md:w-1/2 p-2 shadow-md">
+        <h2>Major Tools for Data Science</h2>
+        <ul>
+          <li>
+            <a href="https://www.python.org/">Pytyon</a> - Python is a
+            programming language that lets you work more quickly and integrate
+            your systems more effectively.
+          </li>
+          <li>
+            <a href="https://jupyter.org/">JupyterLab</a>: A Next-Generation
+            Notebook Interface - JupyterLab is the latest web-based interactive
+            development environment for notebooks, code, and data. Its flexible
+            interface allows users to configure and arrange workflows in data
+            science, scientific computing, computational journalism, and machine
+            learning. A modular design invites extensions to expand and enrich
+            functionality.
+          </li>
+          <li>
+            <a href="https://pandas.pydata.org/">Pandas</a> is a fast, powerful,
+            flexible and easy to use open source data analysis and manipulation
+            tool, built on top of the Python programming language.
+          </li>
+          <li>
+            <a href="https://matplotlib.org/">Matplotlib</a>: Visualization with
+            Python - Matplotlib is a comprehensive library for creating static,
+            animated, and interactive visualizations in Python. Matplotlib makes
+            easy things easy and hard things possible.
+          </li>
+          <li>
+            <a href="https://seaborn.pydata.org/">Seaborn</a>: statistical data
+            visualization - Seaborn is a Python data visualization library based
+            on matplotlib. It provides a high-level interface for drawing
+            attractive and informative statistical graphics.
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>
