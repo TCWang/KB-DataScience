@@ -42,9 +42,31 @@
           </li>
           <li>
             <a
-              href="/files/PTH-001-Python for Data Analysis_ Data Wrangling with pandas, NumPy, and Jupyter2022.pdf"
-              >PTH-001-Python for Data Analysis_ Data Wrangling with pandas,
+              href="/files/PYT-201-Python for Data Analysis_ Data Wrangling with pandas, NumPy, and Jupyter2022.pdf"
+              >PYT-201-Python for Data Analysis_ Data Wrangling with pandas,
               NumPy, and Jupyter2022.pdf</a
+            >
+          </li>
+          <li>
+            <a
+              href="/files/PYT-101-learn-python-in-one-day-and-learn-it-well.pdf"
+              >PYT-101-learn-python-in-one-day-and-learn-it-well.pdf</a
+            >
+          </li>
+          <li>
+            <a
+              href="/files/PYT-102-Python Programming for the Absolute Beginner.pdf"
+              >PYT-102-Python Programming for the Absolute Beginner.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/PYT-103-Python_Crash_Course.pdf"
+              >PYT-103-Python_Crash_Course.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/PYT-104-Learning_Python.pdf"
+              >PYT-104-Learning_Python.pdf</a
             >
           </li>
           <li>
