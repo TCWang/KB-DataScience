@@ -11,11 +11,15 @@
         >
         <ol>
           <li>
-            Learn Relevant Programming Languages: Python, R, SQL, and SAS.
+            Learn Relevant Programming Languages:
+            <span class="font-bold">Python,</span>
+            R, SQL, and SAS.
           </li>
           <li>
             Learn Related Skills: have knowledge of working with a few tools for
-            Data Visualization, Machine Learning, and Big Data.
+            <span class="font-bold"
+              >Data Visualization, Machine Learning, and Big Data.</span
+            >
           </li>
           <li>
             Earn Certifications: Two most popular tools used by Data Scientist
@@ -24,13 +28,15 @@
               <li>
                 <a
                   href="https://www.simplilearn.com/tableau-training-and-data-visualization-course"
-                  >Tableau Certification Training Course</a
+                  ><span class="font-bold">Tableau</span> Certification Training
+                  Course</a
                 >
               </li>
               <li>
                 <a
                   href="https://www.simplilearn.com/power-bi-certification-training-course"
-                  >Power BI Certification Course</a
+                  ><span class="font-bold">Power BI</span> Certification
+                  Course</a
                 >
               </li>
             </ul>
@@ -38,16 +44,21 @@
           <li>
             Internships: are a great way to get your foot in the door to
             companies hiring data scientists. Seek jobs that include keywords
-            such as data analyst, business intelligence analyst, statistician,
-            or data engineer. Internships are also a great way to learn hands-on
-            what exactly the job with entail.
+            such as
+            <span class="font-bold"
+              >data analyst, business intelligence analyst, statistician, or
+              data engineer</span
+            >. Internships are also a great way to learn hands-on what exactly
+            the job with entail.
           </li>
           <li>
             Data Science Entry-Level Jobs: Once your internship period is over,
             you can either join in the same company (if they are hiring), or you
-            can start looking for entry-level positions for data scientists,
-            data analysts, data engineers. From there you can gain experience
-            and work up the ladder as you expand your knowledge and skills.
+            can start looking for entry-level positions for
+            <span class="font-bold"
+              >data scientists, data analysts, data engineers</span
+            >. From there you can gain experience and work up the ladder as you
+            expand your knowledge and skills.
           </li>
         </ol>
       </div>

@@ -46,6 +46,22 @@
               >data scientist in Montreal, QC</a
             >
           </li>
+          <li>
+            104 人力銀行
+            <a
+              href="https://www.104.com.tw/jobs/search/?jobsource=index_s&keyword=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90&mode=s&page=1"
+              >數據分析</a
+            >
+            台灣 10,547
+          </li>
+          <li>
+            1111
+            <a
+              href="https://www.1111.com.tw/search/job?ks=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90"
+              >數據分析</a
+            >
+            台灣 1,348
+          </li>
         </ul>
       </div>
       <div class="w-full md:w-1/2 p-2 shadow-md"></div>
