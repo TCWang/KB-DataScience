@@ -66,6 +66,10 @@
         <h2>Major Tools for Data Science</h2>
         <ul>
           <li>
+            <a href="https://anaconda.cloud/">Anaconda</a> - The Operating
+            System for AI
+          </li>
+          <li>
             <a href="https://www.python.org/">Pytyon</a> - Python is a
             programming language that lets you work more quickly and integrate
             your systems more effectively.
