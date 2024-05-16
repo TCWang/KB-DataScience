@@ -67,7 +67,7 @@
         <ul>
           <li>
             <a href="https://anaconda.cloud/">Anaconda</a> - The Operating
-            System for AI
+            System for AI - Anaconda Navigator
           </li>
           <li>
             <a href="https://www.python.org/">Pytyon</a> - Python is a
@@ -75,13 +75,13 @@
             your systems more effectively.
           </li>
           <li>
-            <a href="https://jupyter.org/">JupyterLab</a>: A Next-Generation
-            Notebook Interface - JupyterLab is the latest web-based interactive
-            development environment for notebooks, code, and data. Its flexible
-            interface allows users to configure and arrange workflows in data
-            science, scientific computing, computational journalism, and machine
-            learning. A modular design invites extensions to expand and enrich
-            functionality.
+            <a href="https://jupyter.org/">Jupyter Notebook</a>: A
+            Next-Generation Notebook Interface - JupyterLab is the latest
+            web-based interactive development environment for notebooks, code,
+            and data. Its flexible interface allows users to configure and
+            arrange workflows in data science, scientific computing,
+            computational journalism, and machine learning. A modular design
+            invites extensions to expand and enrich functionality.
           </li>
           <li>
             <a href="https://pandas.pydata.org/">Pandas</a> is a fast, powerful,
@@ -99,6 +99,27 @@
             visualization - Seaborn is a Python data visualization library based
             on matplotlib. It provides a high-level interface for drawing
             attractive and informative statistical graphics.
+          </li>
+        </ul>
+
+        <h2>Study Path in Udemy</h2>
+        <ul>
+          <li>
+            <a href="https://www.udemy.com/course/complete-python-bootcamp"
+              >The Complete Python Bootcamp From Zero to Hero in Python</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/python-data-analysis-visualization"
+              >2024 Python Data Analysis &amp; Visualization Masterclass</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp"
+              >Python for Data Science and Machine Learning Bootcamp</a
+            >
           </li>
         </ul>
       </div>
