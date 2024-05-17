@@ -33,6 +33,7 @@
       <div
         class="hidden md:flex md:flex-row flex-col items-center justify-start md:space-x-1 navigation-menu pb-3 md:pb-0"
       >
+        <a class="text-white" href="/group">StudyGroup</a>
         <!-- Dropdown Menu -->
         <div class="relative" v-for="(item, index) in menuItems" :key="index">
           <button
