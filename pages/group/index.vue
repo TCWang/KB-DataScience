@@ -3,6 +3,49 @@
     <h1 class="px-2">Study Groups</h1>
     <div class="flex flex-row flex-wrap">
       <div class="w-full md:w-1/2 p-2 shadow-md">
+        <h3>Data Science Society</h3>
+        <ul>
+          <li>
+            Facebook:
+            <a href="https://www.facebook.com/groups/BigDataPakistan/"
+              >Data Science &amp; AI World</a
+            >
+          </li>
+          <li>
+            Facebook:
+            <a href="https://www.facebook.com/groups/648135408678836/"
+              >Data Science Beginners</a
+            >
+          </li>
+          <li>
+            Linkedin:
+            <a href="https://www.linkedin.com/company/data-science-central"
+              >Data Science Central</a
+            >
+          </li>
+          <li>
+            Linkedin:
+            <a
+              href="https://www.linkedin.com/in/data-science-machine-learning-community-8284691b1"
+              >Data Science Machine Learning Community</a
+            >
+          </li>
+          <li>
+            Linkedin:
+            <a
+              href="https://www.linkedin.com/pulse/join-exclusive-linkedin-groups-related-artificial-intelligence-jha-kp87c"
+              >Linedin Groups</a
+            >
+          </li>
+          <li>
+            Kaggle:
+            <a href="https://www.kaggle.com/"
+              >Forums for AI &amp; ML community</a
+            >
+          </li>
+        </ul>
+      </div>
+      <div class="w-full md:w-1/2 p-2 shadow-md">
         <h3>Taiwan Region</h3>
         Women in Data Science, WiDS Taipei
         <ul>
@@ -52,8 +95,6 @@
             >
           </li>
         </ul>
-      </div>
-      <div class="w-full md:w-1/2 p-2 shadow-md">
         <NuxtImg src="/images/group/g001-01.jpeg" class="w-full" />
       </div>
     </div>
