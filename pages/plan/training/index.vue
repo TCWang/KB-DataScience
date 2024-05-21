@@ -79,6 +79,11 @@
               >DATA-002-Tableau-Prep-Up-Running.pdf</a
             >
           </li>
+          <li>
+            <a href="/files/DATA-003-data-visualization-in-python-preview.pdf"
+              >DATA-003-data-visualization-in-python-preview.pdf</a
+            >
+          </li>
         </ul>
 
         <h3>Video Training - Udemy</h3>

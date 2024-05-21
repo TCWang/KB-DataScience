@@ -63,7 +63,8 @@
         </ol>
       </div>
       <div class="w-full md:w-1/2 p-2 shadow-md">
-        <h2>Major Tools for Data Science</h2>
+        <h2>Tools for Data Science</h2>
+        <h3>Development Tools</h3>
         <ul>
           <li>
             <a href="https://anaconda.cloud/">Anaconda</a> - The Operating
@@ -83,11 +84,23 @@
             computational journalism, and machine learning. A modular design
             invites extensions to expand and enrich functionality.
           </li>
+        </ul>
+
+        <h3>Data Analysis Tools</h3>
+        <ul>
+          <li>
+            <a href="https://numpy.org/">NumPy</a> - The fundamental package for
+            scientific computing with Python, a Linear Algebra Library for
+            Python.
+          </li>
           <li>
             <a href="https://pandas.pydata.org/">Pandas</a> is a fast, powerful,
             flexible and easy to use open source data analysis and manipulation
             tool, built on top of the Python programming language.
           </li>
+        </ul>
+        <h3>Data Visualization Tools</h3>
+        <ul>
           <li>
             <a href="https://matplotlib.org/">Matplotlib</a>: Visualization with
             Python - Matplotlib is a comprehensive library for creating static,
@@ -99,6 +112,10 @@
             visualization - Seaborn is a Python data visualization library based
             on matplotlib. It provides a high-level interface for drawing
             attractive and informative statistical graphics.
+          </li>
+          <li>
+            <a href="https://plotly.com/">Plotly</a> - The premier platform for
+            building, scaling, and deploying data apps.
           </li>
         </ul>
 
