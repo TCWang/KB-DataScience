@@ -323,6 +323,12 @@
               >人工智慧與數據分析職場菁英養成班</a
             >, 2 months
           </li>
+          <li>
+            <a
+              href="https://dscareer.kolable.app/projects/a0c03d77-9b6f-402d-8b91-42b316a7d1eb"
+              >徒手打造數據分析應用案例</a
+            >
+          </li>
         </ul>
 
         <h3>Ie Wagon Training Course</h3>
