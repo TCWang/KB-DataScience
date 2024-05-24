@@ -219,6 +219,18 @@
               >Prompt Engineering Tutorial – Master ChatGPT and LLM Responses</a
             >
           </li>
+          <li>
+            <a
+              href="https://www.cse.iitd.ac.in/~mausam/courses/col772/spring2023/lectures/22-promptengg.pdf"
+              >Prompt Enginnering PPT</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://developer.nbg.gr/sites/default/files/PromptEngineeringF.pdf"
+              >Prompt Engineering Guide</a
+            >
+          </li>
         </ul>
         <h3>Feature Engineer 特徵工程</h3>
         <p>
@@ -238,6 +250,13 @@
               href="https://aws.amazon.com/tw/what-is/feature-engineering/#:~:text=Feature%20engineering%20involves%20the%20extraction,features%20for%20training%20and%20prediction."
               >什麼是特徵工程？
             </a>
+          </li>
+          <li>
+            OReily
+            <a
+              href="https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf"
+              >Feature Engineering for Machine Learning</a
+            >
           </li>
         </ul>
       </div>
