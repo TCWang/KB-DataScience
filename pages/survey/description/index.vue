@@ -188,6 +188,58 @@
             Management or Statistics
           </li>
         </ul>
+        <h2>Other Job Titles</h2>
+        <h3>Prompt Engineer 提示工程</h3>
+        <p>
+          Prompt engineering is the process of structuring an instruction that
+          can be interpreted and understood by a generative AI model. A prompt
+          is natural language text describing the task that an AI should
+          perform.
+        </p>
+
+        Reference:
+        <ul>
+          <li>
+            Zapier
+            <a
+              href="https://zapier.com/blog/prompt-engineering/?utm_source=google&utm_medium=cpc&utm_campaign=gaw-row-nua-evr-search_nb_desktop_blog_prospecting_developing1_developing2-ads&utm_term=&utm_content=9040289&utm_ads_campaign_id=19622168382&utm_ads_adset_id=157760468828&utm_ads_ad_id=659058345737&gad_source=1&gclid=Cj0KCQjw0ruyBhDuARIsANSZ3wqkRDqddIU82kO0R-bHXbhoALDNlfm2gW2oaHBdUMpe9NNWsywB4v8aAo5IEALw_wcB"
+              >What is prompt engineering?</a
+            >
+          </li>
+          <li>
+            <a href="https://www.promptingguide.ai/zh">提示工程指南</a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=lanRWSAOkrw"
+              >What Are The Top 4 Methods for Prompt Engineering?</a
+            >
+          </li>
+          <li>
+            <a href="https://www.youtube.com/watch?v=_ZvnD73m40o"
+              >Prompt Engineering Tutorial – Master ChatGPT and LLM Responses</a
+            >
+          </li>
+        </ul>
+        <h3>Feature Engineer 特徵工程</h3>
+        <p>
+          Feature engineering, a preprocessing step in supervised machine
+          learning and statistical modeling,[1] transforms raw data into a more
+          effective set of inputs. Each input comprises several attributes,
+          known as features. By providing models with relevant information,
+          feature engineering significantly enhances their predictive accuracy
+          and decision-making capability.
+        </p>
+
+        Reference:
+        <ul>
+          <li>
+            AWS:
+            <a
+              href="https://aws.amazon.com/tw/what-is/feature-engineering/#:~:text=Feature%20engineering%20involves%20the%20extraction,features%20for%20training%20and%20prediction."
+              >什麼是特徵工程？
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
     <div class="flex flex-row flex-wrap">
