@@ -231,6 +231,11 @@
               >Prompt Engineering Guide</a
             >
           </li>
+          <li>
+            <a href="/files/OTHE-101-prompt_engineering_tutorial.pdf"
+              >OTHE-101-prompt_engineering_tutorial.pdf</a
+            >
+          </li>
         </ul>
         <h3>Feature Engineer 特徵工程</h3>
         <p>
@@ -254,8 +259,14 @@
           <li>
             OReily
             <a
-              href="https://www.repath.in/gallery/feature_engineering_for_machine_learning.pdf"
-              >Feature Engineering for Machine Learning</a
+              href="/files/OTHE-001-feature_engineering_for_machine_learning.pdf"
+              >OTHE-001-feature_engineering_for_machine_learning.pdf</a
+            >
+          </li>
+          <li>
+            <a
+              href="/files/OTHE-003-the-art-of-feature-engineering-essentials-for-machine-learning.pdf"
+              >OTHE-003-the-art-of-feature-engineering-essentials-for-machine-learning.pdf</a
             >
           </li>
         </ul>
