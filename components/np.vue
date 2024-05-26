@@ -31,19 +31,14 @@
       </div>
       <!-- Primary Navigation -->
       <div
-        :class="{
-          hidden: !mobileMenuOpen,
-          block: mobileMenuOpen,
-          'md:flex': true,
-        }"
-        class="md:flex-row flex-col items-center justify-start md:space-x-1 navigation-menu pb-3 md:pb-0"
+        class="hidden md:flex md:flex-row flex-col items-center justify-start md:space-x-1 navigation-menu pb-3 md:pb-0"
       >
-        <a class="py-2 px-3 block text-white" href="/group">StudyGroup</a>
+        <a class="text-white" href="/group">StudyGroup</a>
         <!-- Dropdown Menu -->
         <div class="relative" v-for="(item, index) in menuItems" :key="index">
           <button
             @click="toggleDropdown(index)"
-            class="dropdown-toggle py-2 px-3 hover:bg-indigo-500 flex items-center gap-2 rounded"
+            class="dropdown-toggle py-2 px-3 hover:bg-indigo-700 flex items-center gap-2 rounded"
           >
             <span class="pointer-events-none">{{ item.name }}</span>
             <svg
@@ -67,19 +62,20 @@
           </button>
           <div
             v-if="item.open"
-            class="dropdown-menu absolute bg-indigo-500 text-white rounded-b-lg pb-2 w-64 z-10"
+            class="dropdown-menu absolute bg-indigo-700 text-white rounded-b-lg pb-2 w-64"
           >
             <a
               v-for="(submenu, i) in item.submenu"
               :key="i"
               :href="submenu.link"
-              class="block pl-4 md:pl-4 pr-2 py-2 hover:bg-indigo-800 text-white"
+              class="block pl-24 md:pl-4 pr-2 py-2 hover:bg-indigo-800 text-white"
               >{{ submenu.name }}</a
             >
           </div>
         </div>
 
         <!-- Single Page -->
+
         <a class="py-2 px-3 block text-white" href="/notes">Study Notes</a>
       </div>
     </div>
@@ -90,7 +86,6 @@
 export default {
   data() {
     return {
-      mobileMenuOpen: false,
       menuItems: [
         {
           name: "Job Survey",
@@ -102,7 +97,7 @@ export default {
           ],
         },
         {
-          name: "Study Plan",
+          name: "Stydy Plan",
           open: false,
           submenu: [
             { name: "Pathway", link: "/plan/pathway" },
@@ -115,35 +110,12 @@ export default {
   },
   methods: {
     toggleDropdown(index) {
-      this.menuItems.forEach((item, i) => {
-        if (i === index) {
-          item.open = !item.open;
-        } else {
-          item.open = false;
-        }
-      });
+      this.menuItems[index].open = !this.menuItems[index].open;
     },
     toggleMobileMenu() {
-      this.mobileMenuOpen = !this.mobileMenuOpen;
+      const mobileMenu = document.querySelector(".navigation-menu");
+      mobileMenu.classList.toggle("hidden");
     },
   },
 };
 </script>
-
-<style scoped>
-/* Ensure dropdown menu covers subsequent items in mobile mode */
-.dropdown-menu {
-  z-index: 10;
-}
-@media (max-width: 767px) {
-  .dropdown-menu {
-    position: static;
-  }
-  .dropdown-menu a {
-    padding-left: 2rem; /* Adjust padding as needed */
-  }
-  .navigation-menu a {
-    padding-left: 0.8rem; /* Align all items including StudyGroup */
-  }
-}
-</style>
