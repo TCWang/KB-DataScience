@@ -41,12 +41,67 @@
             >
           </li>
           <li>
+            <a href="/files/DSML-201-Pandas_Powerful_Python_Data_Analysis.pdf"
+              >DSML-201-Pandas_Powerful_Python_Data_Analysis.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-202-Pandas_Cheat_Sheet.pdf"
+              >DSML-202-Pandas_Cheat_Sheet.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-203-PandasPPT.pdf">DSML-203-PandasPPT.pdf</a>
+          </li>
+          <li>
+            <a href="/files/DSML-204-Pandas_Data_Analysis.pdf"
+              >DSML-204-Pandas_Data_Analysis.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-301-MatplotlibV3.pdf"
+              >DSML-301-MatplotlibV3.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-302-matplotlib_tutorial.pdf"
+              >DSML-302-matplotlib_tutorial.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-303-Matplotlib_slides_python_3.pdf"
+              >DSML-303-Matplotlib_slides_python_3.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-304-Matplotlib_cheatsheets.pdf"
+              >DSML-304-Matplotlib_cheatsheets.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-402-seaborn_tutorial.pdf"
+              >DSML-402-seaborn_tutorial.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-403-Seaborn_PPT.pdf"
+              >DSML-403-Seaborn_PPT.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-404-Seaborn_Cheatsheet_Datacamp.pdf"
+              >DSML-404-Seaborn_Cheatsheet_Datacamp.pdf</a
+            >
+          </li>
+
+          <li>
             <a
               href="/files/PYT-201-Python for Data Analysis_ Data Wrangling with pandas, NumPy, and Jupyter2022.pdf"
               >PYT-201-Python for Data Analysis_ Data Wrangling with pandas,
               NumPy, and Jupyter2022.pdf</a
             >
           </li>
+
           <li>
             <a
               href="/files/PYT-101-learn-python-in-one-day-and-learn-it-well.pdf"
@@ -82,6 +137,23 @@
           <li>
             <a href="/files/DATA-003-data-visualization-in-python-preview.pdf"
               >DATA-003-data-visualization-in-python-preview.pdf</a
+            >
+          </li>
+          <li>
+            <a
+              href="/files/OTHE-001-feature_engineering_for_machine_learning.pdf"
+              >OTHE-001-feature_engineering_for_machine_learning.pdf</a
+            >
+          </li>
+          <li>
+            <a
+              href="/files/OTHE-003-the-art-of-feature-engineering-essentials-for-machine-learning.pdf"
+              >OTHE-003-the-art-of-feature-engineering-essentials-for-machine-learning.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/OTHE-101-prompt_engineering_tutorial.pdf"
+              >OTHE-101-prompt_engineering_tutorial.pdf</a
             >
           </li>
         </ul>
