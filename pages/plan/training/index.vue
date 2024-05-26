@@ -93,6 +93,24 @@
               >DSML-404-Seaborn_Cheatsheet_Datacamp.pdf</a
             >
           </li>
+          <li>
+            <a href="/files/DSML-501-numpy-user-guide.pdf"
+              >DSML-501-numpy-user-guide.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-502-numpy_tutorial.pdf"
+              >DSML-502-numpy_tutorial.pdf</a
+            >
+          </li>
+          <li>
+            <a href="/files/DSML-503-numpybook.pdf">DSML-503-numpybook.pdf</a>
+          </li>
+          <li>
+            <a href="/files/DSML-601-plotly_tutorial.pdf"
+              >DSML-601-plotly_tutorial.pdf</a
+            >
+          </li>
 
           <li>
             <a
