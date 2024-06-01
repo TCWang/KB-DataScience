@@ -110,6 +110,8 @@
             degree in Data Science or other quantitative field is preferred
           </li>
         </ul>
+
+        <img src="/images/description/des-001.jpeg" />
       </div>
       <div class="w-full md:w-1/2 p-2 shadow-md">
         <h2>Data Analyst</h2>
