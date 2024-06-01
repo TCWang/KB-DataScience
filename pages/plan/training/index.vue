@@ -476,6 +476,12 @@
             >
           </li>
         </ul>
+        <h3>Data Science Websites</h3>
+        <ul>
+          <li>
+            <a href="https://www.mltut.com/">MLTut</a> - Machine Learner's Spot!
+          </li>
+        </ul>
       </div>
     </div>
   </div>
