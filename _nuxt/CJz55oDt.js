@@ -1,0 +1,1 @@
+import{u as e,c as t,o as a,a as c}from"./DJZo4CYB.js";const s={class:"container"},o=c("h1",null,"Data Science",-1),n=[o],l={__name:"index",setup(_){return e({title:"Data Science"}),(i,r)=>(a(),t("div",s,n))}};export{l as default};
